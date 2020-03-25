@@ -1,4 +1,3 @@
-
 function checkGenderRadioButton(){
   var radioOption = document.getElementsByName("gender");
    var formValid = false;
